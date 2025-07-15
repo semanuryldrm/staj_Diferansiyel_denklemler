@@ -29,7 +29,7 @@ namespace Diferansiyel_denklemler
     //    }
     //}
 
-    //class RK4_Yontemi
+    //class Runge_Kutta_Yontemi
     //{
     //    static void Main()
     //    {
